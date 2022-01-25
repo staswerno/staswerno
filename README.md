@@ -21,7 +21,7 @@
 
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="120px">
 
 
 
@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="120px">
 
 
 
@@ -48,7 +48,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="120px">
 
 
 
