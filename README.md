@@ -21,7 +21,7 @@
 <br />
 
 
-<table ><tr><td valign="top" width="150px" style="background-color: #EEEEEE">
+<table ><tr><td valign="top" width="150px" style="background-color: #FFFFFF">
 
 
 
