@@ -18,10 +18,10 @@
 
   
   
+<br />
 
 
-
-<table ><tr><td valign="top" width="120px" style="background-color: #FFFFFF">
+<table ><tr><td valign="top" width="150px" style="background-color: #FFFFFF">
 
 
 
@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="120px" style="background-color: #FFFFFF">
+</td><td valign="top" width="150px" style="background-color: #FFFFFF">
 
 
 
@@ -48,7 +48,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
-</td><td valign="top" width="120px" style="background-color: #FFFFFF">
+</td><td valign="top" width="150px" style="background-color: #FFFFFF">
 
 
 
@@ -63,7 +63,7 @@
 
 </td></tr></table>  
 
-
+<br />
 
 <details><summary> Connect with me </summary><div align="center">
 <a href="https://github.com/staswerno" target="_blank">
