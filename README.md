@@ -18,7 +18,7 @@
 
   
   
-
+<br />
 
 
 <table><tr><td valign="top" width="150px">
@@ -63,7 +63,7 @@
 
 </td></tr></table>  
 
-
+<br />
 
 <details><summary> Connect with me </summary><div align="center">
 <a href="https://github.com/staswerno" target="_blank">
