@@ -1,7 +1,7 @@
-### hi! i'm staś.   
+## hi! i'm staś.   
   
 
-#### i'm a full stack web and app developer.  
+### i'm a full stack web and app developer.  
   
 
 🛸 check out my [portfolio](https://staswerno.dev) here
@@ -25,7 +25,7 @@
 
 
 
-#### frontend  
+### frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -39,7 +39,7 @@
 
 
 
-#### backend  
+### backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -52,7 +52,7 @@
 
 
 
-#### tools  
+### tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
