@@ -18,15 +18,15 @@
 
   
   
-<br />
 
 
-<table><tr><td valign="top" width="150px">
+
+<table ><tr><td valign="top" width="120px" style="background-color: #FFFFFF">
 
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="150px">
+</td><td valign="top" width="120px" style="background-color: #FFFFFF">
 
 
 
@@ -48,7 +48,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
-</td><td valign="top" width="150px">
+</td><td valign="top" width="120px" style="background-color: #FFFFFF">
 
 
 
@@ -63,7 +63,7 @@
 
 </td></tr></table>  
 
-<br />
+
 
 <details><summary> Connect with me </summary><div align="center">
 <a href="https://github.com/staswerno" target="_blank">
