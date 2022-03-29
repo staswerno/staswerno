@@ -1,7 +1,7 @@
 ### hi! i'm staś.   
   
 
-### i'm a full stack web and app developer.  
+### i'm a full stack developer.  
   
 
 🛸 check out my [portfolio](https://staswerno.dev) here
