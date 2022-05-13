@@ -1,7 +1,7 @@
 ### hi! i'm staś.   
   
 
-### i'm a full stack developer.  
+### i'm a frontend and fullstack developer.  
   
 
 🛸 check out my [portfolio](https://staswerno.dev) here
