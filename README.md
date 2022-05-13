@@ -10,7 +10,7 @@
 ❤️ i love working with the mern stack  
   
 
-📚 i’m currently learning typescript and next.js  
+📚 i’m currently learning typescript
   
 
 🎵 i have a lifetime of experience working in the music industry  
